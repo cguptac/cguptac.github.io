@@ -52,4 +52,4 @@ The jupyter notebook that implements this code (and a little bit extra) can be f
                                                                                                 
 Tried to recreate this with cifar-10 and failed miserably. The pixel density is really too low for the task at hand.
 
-$$ e=mc^2$$
+
