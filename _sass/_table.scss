@@ -1,0 +1,14 @@
+
+.mbtablestyle {
+        border-collapse: collapse;
+
+   > table, td, th {
+        border: 1px solid black;
+        border-collapse: separate;
+        padding: 10px;
+        }
+   > tbody tr:nth-child(odd) {
+   		background-color: #ccc;
+		}
+ 
+}
